@@ -23,7 +23,14 @@ address,caption,cite,code,dfn,em,var {font-style:normal;font-weight:normal}
 
 .header {padding:10px 0;font-size:20px;background-color:#3d414c;text-align:center;color:#fff}
 .footer {padding:10px 0;border-top:1px solid #d9d9d9;font-size:11px;font-size:12px;background-color:#f1f1f1;text-align:center;color:#888}
+
 .gnb {overflow:hidden;background-color:#be3f2f}
 .gnb li {float:left;width:20%}
 .gnb .tab_day {display:block;padding:6px 0;text-align:center;color:#fff}
 .gnb .tab_day.on {background-color:#8e2f23}
+
+.list_webtoon li {border-top:1px solid #ccc}
+.list_webtoon .link_webtoon {display:block;overflow:hidden}
+.list_webtoon .img_webtoon {float:left;width:148px;height:106px;margin-right:10px}
+.list_webtoon .info_webtoon {overflow:hidden}
+.list_webtoon .info_webtoon .tit_webtoon {display:block;font-size:16px;padding:8px 0}
