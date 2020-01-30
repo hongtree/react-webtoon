@@ -71,6 +71,22 @@
       "genre": ["코믹", "액션"],
       "score": 9.4,
       "thumbnail": "http://i1.cartoon.daumcdn.net/svc/image/U03/cartoon/55E5573D0213590002"
+    },
+    {
+      "id": 10,
+      "title": "이태원 클라쓰",
+      "artist": "광진",
+      "genre": ["드라마", "청춘"],
+      "score": 9.9,
+      "thumbnail": "http://t1.daumcdn.net/cartoon/5860CA03047D2B0002"
+    },
+    {
+      "id": 11,
+      "title": "라디오 스타",
+      "artist": "윤종신",
+      "genre": ["액션", "판타지"],
+      "score": 9.9,
+      "thumbnail": "http://t1.daumcdn.net/webtoon/op/667f61611cbb23d784df8d1ed48c740c7d3324a2"
     }
   ]
 }
